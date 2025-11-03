@@ -5,6 +5,7 @@
 <p align="center">
   <em>Developer Fullstack • Student</em>
 </p>
+<p align="center"> ❝Coffee , game , music and hard work sums me up.❞</p>
 
 <h2 align="center">Technology</h2>
 <div align="center">
